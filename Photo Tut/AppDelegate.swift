@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Photo Tut
+//  Grabbing Photos from the Photo Roll
 //
 //  Created by altu on 9/19/17.
 //  Copyright © 2017 dkato. All rights reserved.

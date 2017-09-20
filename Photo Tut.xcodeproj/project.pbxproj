@@ -516,6 +516,7 @@
 				275E500A1F7188DE0089CA92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		275E500B1F7188DE0089CA92 /* Build configuration list for PBXNativeTarget "Photo TutTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				275E500D1F7188DE0089CA92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		275E500E1F7188DE0089CA92 /* Build configuration list for PBXNativeTarget "Photo TutUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				275E50101F7188DE0089CA92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
